@@ -28,7 +28,6 @@ public class Diagnos2 {
             f = indata*antal;
             System.out.println(antal + "*" + indata + "=" + f + " ");
         } while (antal < 10);
-        boolean sant = true;
         }
 
     }
